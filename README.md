@@ -5,10 +5,6 @@ Este projeto foi desenvolvido como parte do curso gratuito de C# oferecido pela 
 - Ler arquivos de texto existentes;
 - Criar novos arquivos de texto.
 
-## Objetivo
-
-O principal objetivo deste projeto é proporcionar uma compreensão inicial da linguagem C# e das suas funcionalidades, especialmente no que diz respeito à manipulação de arquivos e interação com o usuário via terminal.
-
 ## Funcionalidades
 
 - **Leitura de arquivos:** O editor pode abrir e exibir o conteúdo de arquivos de texto.
