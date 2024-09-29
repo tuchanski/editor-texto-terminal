@@ -1,4 +1,4 @@
-# Editor de Texto via Terminal em C#
+# Editor de Texto via Terminal ✍️
 
 Este projeto foi desenvolvido como parte do curso gratuito de C# oferecido pela [Balta.io](https://balta.io), com o objetivo de criar um editor de texto simples, mas funcional, operado via terminal. O editor permite realizar operações básicas, como:
 
