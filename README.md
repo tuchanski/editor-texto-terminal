@@ -34,3 +34,5 @@ Este projeto foi desenvolvido como parte do curso gratuito de C# oferecido pela 
 
 4. Siga as instruções exibidas no terminal para criar ou abrir um arquivo de texto.
 
+## Exemplo de uso
+![Editor de Texto GIF](https://i.imgur.com/aauP8Ul.gif)
