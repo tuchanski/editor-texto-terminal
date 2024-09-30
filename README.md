@@ -36,3 +36,7 @@ Este projeto foi desenvolvido como parte do curso gratuito de C# oferecido pela 
 
 ## Exemplo de uso
 ![Editor de Texto GIF](https://i.imgur.com/aauP8Ul.gif)
+
+## Autor
+
+- [Guilherme Tuchanski Rocha | GitHub](https://github.com/tuchanski)
